@@ -1,0 +1,14 @@
+/** @format */
+
+body {
+	font-family: Arial, sans-serif;
+}
+
+.hero-section {
+	background: linear-gradient(135deg, #343a40, #495057);
+}
+
+.card-img-top {
+	height: 200px;
+	object-fit: cover;
+}
