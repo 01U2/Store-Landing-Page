@@ -13,4 +13,4 @@ The objective of this project is to create a responsive landing page for an onli
 ## Design Choices
 The design choices were made to enhance user experience and visual appeal, while keeping it simple. The layout is clean and organized, with a focus on usability by applying bootstrap.The use of a CSS framework, bootstrap will enhance the responsiveness and styling of the landing page.
 
-![Webpage](images/image.png)
+![Webpage](images/image2.png)
