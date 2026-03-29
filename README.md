@@ -11,6 +11,6 @@ The objective of this project is to create a responsive landing page for an onli
 - **Responsive Design**: Media queries are utilized to create a responsive layout that adjusts for various screen sizes, ensuring mobile-friendliness.
 
 ## Design Choices
-During the development process, the design choices were made to enhance user experience and visual appeal. The layout is clean and organized, with a focus on usability. The product cards are designed to be eye-catching, encouraging users to explore the products further. The use of a CSS framework (if implemented) will enhance the responsiveness and styling of the landing page.
+The design choices were made to enhance user experience and visual appeal, while keeping it simple. The layout is clean and organized, with a focus on usability by applying bootstrap.The use of a CSS framework, bootstrap will enhance the responsiveness and styling of the landing page.
 
 ![Webpage](images/image.png)
